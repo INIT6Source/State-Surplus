@@ -25,7 +25,7 @@ Still unsure? Check the [National Association of State Agencies for Surplus Prop
 - [Louisana](https://www.doa.la.gov/doa/ogs/louisiana-property-assistance-agency/)
 - [Maine](https://www.maine.gov/dafs/bbm/centralservices/)
 - [Maryland](https://dgs.maryland.gov/pages/surplusproperty/index.aspx)
-- [MassachusetTs](https://www.mass.gov/surplus-property-program)
+- [Massachusetts](https://www.mass.gov/surplus-property-program)
 - [Michigan](https://mibid.bidcorp.com/)
 - [Minnesota](https://mn.gov/admin/government/surplus-property/auctions/)
 - [Mississippi](https://www.dfa.ms.gov/surplus-property)
